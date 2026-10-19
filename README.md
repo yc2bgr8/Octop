@@ -14,4 +14,4 @@ The screenshots show the actual, unmodified Dashboard components at the followin
 - `1054-export-menu.png`, `1054-export-success.png`, `1054-sample-download.json`
 - `1057-archive-menu.png`, `1057-archived-view.png`, `1057-restore-menu.png`, `1057-restored-current-view.png`
 
-The captures do not assert that a human has reviewed the code. The fixture contains only sample users, messages, model labels and a nonfunctional local token; no service credentials or personal conversation history are included.
+Only sample users, messages and model labels are used; no service credentials or personal conversation history are included.
